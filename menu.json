@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "Espresso",
+    "description": "A rich, full-flavored shot of coffee made from finely ground beans.",
+    "details": [
+      { "id": "1", "size": "Small", "price": "3" },
+      { "id": "2", "size": "Medium", "price": "4" },
+      { "id": "3", "size": "Large", "price": "5" }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Latte",
+    "description": "A creamy coffee drink made with espresso and steamed milk.",
+    "details": [
+      { "id": "1", "size": "Small", "price": "4" },
+      { "id": "2", "size": "Medium", "price": "5" },
+      { "id": "3", "size": "Large", "price": "6" }
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Iced Americano",
+    "description": "A refreshing cold drink made by diluting espresso with ice water.",
+    "details": [
+      { "id": "1", "size": "Small", "price": "4" },
+      { "id": "2", "size": "Medium", "price": "5" },
+      { "id": "3", "size": "Large", "price": "7" }
+    ]
+  }
+]
